@@ -27,7 +27,7 @@ API login :
 - Klik Send
 
 API logout :
-- method GET - localhost/ewallet/api/authentication/login
+- method GET - localhost/ewallet/api/authentication/logout
 - Klik Send
 
 API user edit :
